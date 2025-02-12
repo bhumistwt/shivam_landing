@@ -1,7 +1,9 @@
 const Header = () => {
   return (
 
-    <nav className="absolute border top-5 flex justify-items-center space-x-6 text-black text-sm">
+    <nav className=" top-5 bg-green-500 flex justify-center items-center
+
+     space-x-6 text-black mt-7">
 
       <a href="#" className="hover:underline">
         About us
